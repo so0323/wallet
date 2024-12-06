@@ -35,6 +35,9 @@ export const Languages = [{
 // }, {
 //     code: 'tr',
 //     name: 'Türkçe',
+}, {
+    code: 'jp',
+    name: '日本語',
 }];
 
 const DEFAULT_LANGUAGE = 'en';
